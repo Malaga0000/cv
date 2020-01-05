@@ -1,0 +1,180 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/********* Containers ************/
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  line-height: 0;
+  color: #66BFBF;
+  margin: 9rem auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 1rem;
+  font-size: 2.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  color: #40514E;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #fff;
+}
+
+hr {
+  border-top: dotted 0.5em rgba(78, 78, 78, 1);
+  margin: 0 auto 4rem auto;
+  width: 4%;
+  color: #EAF6F6;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin: 3rem auto 3rem auto;
+}
+
+.subtitle {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font weight: normal;
+}
+
+.top-container {
+  text-align: center;
+  background-color: rgba(30, 140, 191, 1);
+  position: relative;
+  padding-top:0.2rem;
+}
+
+.clouds{
+  padding-top: 1rem;
+  position: relative;
+  width: 60rem;
+  margin: auto;
+  display: center:
+
+}
+
+.middle-container {
+margin: 1rem, auto 1rem auto;
+}
+
+.bottom-container {
+  padding: 2rem;
+  background-color: #66BFBF;
+  text-align: center;
+  }
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+/********** PICS ***********/
+.top-cloud {
+  position: absolute;
+  top: 4rem;
+  right: 4rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 15rem;
+  left: 2rem;
+}
+
+.skill1 {
+  width: 9rem;
+  float: left;
+  margin: 0px 20px 0px 0px;
+}
+
+.skill2 {
+  width: 9rem;
+  float: right;
+  margin: 0px 20px 0px 0px;
+}
+
+/**********CONTACT ME************/
+
+.contact-me {
+  position: relative;
+  line-height: 2.5rem;
+  font-size: 2.5rem text-align:center;
+  margin: 0rem auto 6rem auto
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 3rem auto 4rem auto;
+  padding-bottom: 2rem;
+}
+
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background-color: #66BFBF;
+  border-radius: 7px;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  padding: 5px;
+  border-style: solid;
+}
+
+.btn:hover{
+  background-color:#fff;
+  color: #66BFBF;
+  border-style: solid;
+  border-color: #66BFBF;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 4rem;
+  text-align: center;
+}
+
+.footer-contact {
+  color: #EAF6F6;
+  font-size: 10px;
+  padding: 0.6rem;
+}
